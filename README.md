@@ -20,8 +20,8 @@ Typical course of events:
 |--------------|----------------:|
 | 1. This use case begins when Actor wants to initiate an event.| |
 | 2. The Actor does something... | 3. The system determines something or responds... |
-|4. ||
-|5. | 6. |
+| 4. ||
+| 5. | 6. |
 
 
 Alternative Courses:
