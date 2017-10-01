@@ -1,5 +1,9 @@
 # use-case-markdown-skeleton
-A skeleton for making use case documentation in markdown (which is handy for SCM like github, gitlab or various CMS)
+A skeleton for making use case documentation in markdown (which is handy for SCM like github, gitlab or various CMS).  It mainly follows Craig Larman's format in the [first edition](https://www.amazon.com/Applying-UML-Patterns-Craig-Larman/dp/0137488807) of ["Applying UML and Patterns"](https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062) book [Good reads review](https://www.goodreads.com/book/show/85019.Applying_UML_and_Patterns)
+
+You may also want to refer to [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet")
+
+[This gist got me started](https://gist.github.com/fourcube/cdb4454f69b17414515f)
 
 Use Case: Name of use case.
 =================================
