@@ -17,7 +17,7 @@ Typical course of events:
 ----------------------
 
 | Actor Action | System Response |
-|--------------|----------------:|
+|:--------------|:----------------|
 | 1. This use case begins when Actor wants to initiate an event.| |
 | 2. The Actor does something... | 3. The system determines something or responds... |
 | 4. ||
@@ -35,7 +35,7 @@ Alternative Courses:
 Section: A subsection of the use case, e.g. Paying by cash
 -----------
 | Actor Action | System Response |
-|--------------|----------------:|
+|:--------------|:----------------|
 | 1. This use case begins when Actor wants to initiate an event.| |
 | 2. The Actor does something... | 3. The system determines something or responds... |
 |4. ||
